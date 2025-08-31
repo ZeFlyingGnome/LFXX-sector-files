@@ -31,6 +31,7 @@ LFNR : added coordinates and runways for display on APP
 
 TMA Lyon : updated sector shapes
 TMA Nantes : updated sector shapes
+TMA Provence : updated sector shapes
 
 CTR LFAQ : updated sector shape
 CTR LFMD : updated sector shapes
