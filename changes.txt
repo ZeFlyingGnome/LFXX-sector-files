@@ -19,6 +19,7 @@ LFMK : updated taxiways names, commercial stands layout
 LFPB : updated stands K1, K2, Z1, Z2, added appron S, added FBOs, updated taxiways
 LFPO : showing full terminal names (ORLY 1 instead of 1)
 LFRK : added gates, update taxiway H1, removed taxiway B1
+LFTW : Removed SN, added CS, SG, PA, BG, CZ, RD and UH (VFR report points)
 
 **********************
 SCT
