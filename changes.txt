@@ -30,6 +30,7 @@ LFME : added coordinates and runways for display on APP
 LFNR : added coordinates and runways for display on APP
 
 TMA Lyon : updated sector shapes
+TMA Montpellier : fixed typo, remove sector 24
 TMA Nantes : updated sector shapes
 TMA Provence : updated sector shapes
 
