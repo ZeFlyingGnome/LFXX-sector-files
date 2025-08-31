@@ -6,6 +6,7 @@ CTR LFAQ : updated sector ownership shape
 CTR LFLB : updated sector ownership shape
 CTR LFMD : updated sector ownership shape
 CTR LFRS : updated sector ownership shape, removed CTR2 (transferred to SIV)
+CTR LFTW : updated sector ownership shape
 
 LFBY : updated coordinates for BG (VFR report point)
 LFBZ : updated stands layout apron A, updated taxiways D1 and V, fixed coordinates for VFR report points
@@ -31,6 +32,7 @@ TMA Nantes : updated sector shapes
 CTR LFAQ : updated sector shape
 CTR LFMD : updated sector shapes
 CTR LFRS : updated sector shape, removed CTR2
+CTR LFTW : updated sector shape
 
 LF R35A/R35B PARIS SACLAY VERSAILLES : added for controling LFPN TWR
 
