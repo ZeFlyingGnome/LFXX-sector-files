@@ -15,6 +15,7 @@ LFKJ : renamed stands 1 and 2 to PTT1 and PTT2
 LFLB : updated coordinates for SB and SM (VFR report points)
 LFLS : full update: stands and taxiways
 LFMD : updated coordinates for SW (VFR report point)
+LFME : Removed SN, added CS, SG and PA (VFR report points)
 LFMK : updated taxiways names, commercial stands layout
 LFPB : updated stands K1, K2, Z1, Z2, added appron S, added FBOs, updated taxiways
 LFPO : showing full terminal names (ORLY 1 instead of 1)
