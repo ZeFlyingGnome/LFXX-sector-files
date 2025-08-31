@@ -26,6 +26,7 @@ LFTW : Removed SN, added CS, SG, PA, BG, CZ, RD and UH (VFR report points)
 SCT
 **********************
 
+LFME : added coordinates and runways for display on APP
 LFNR : added coordinates and runways for display on APP
 
 TMA Lyon : updated sector shapes
