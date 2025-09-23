@@ -3,6 +3,7 @@ ESE
 **********************
 
 CTR LFAQ : updated sector ownership shape
+CTR LFCR : updated sector ownership shape
 CTR LFLB : updated sector ownership shape
 CTR LFMD : updated sector ownership shape
 CTR LFRS : updated sector ownership shape, removed CTR2 (transferred to SIV)
@@ -33,8 +34,10 @@ TMA Lyon : updated sector shapes
 TMA Montpellier : fixed typo, remove sector 24
 TMA Nantes : updated sector shapes
 TMA Provence : updated sector shapes
+TMA Rodez : removed
 
 CTR LFAQ : updated sector shape
+CTR LFCR : updated sector shape
 CTR LFMD : updated sector shapes
 CTR LFRS : updated sector shape, removed CTR2
 CTR LFTW : updated sector shape
