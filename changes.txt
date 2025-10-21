@@ -2,6 +2,10 @@
 ESE
 **********************
 
+LFMH_ATIS: add sector code
+LFMT_ATIS: add sector code
+LFMU_ATIS: add sector code
+
 CTR LFAQ : updated sector ownership shape
 CTR LFCR : updated sector ownership shape
 CTR LFLB : updated sector ownership shape
@@ -19,6 +23,7 @@ LFMD : updated coordinates for SW (VFR report point)
 LFME : Removed SN, added CS, SG and PA (VFR report points)
 LFMK : updated taxiways names, commercial stands layout
 LFPB : updated stands K1, K2, Z1, Z2, added appron S, added FBOs, updated taxiways
+LFPG : Added gates I3A I3B I3C I3D I3F I3G I3H I4J I4L I4M I4N I4P I4Q I4R I4S I4T I4U I4V I4W I4X EN53 EN54 EN58 EN59 EN97 EN98 EN99 PM1 PM2 PB3 PB4 PBM S06B S07B S08B S09B R39 M09 M21 M23 P84 E15 E08 G10 G11 G12 G13 G14 G31 G35 G20 G21 G22 G23 G24, Removed gates N80 EN90 EN92 EN93 P1 P2 P3 P4 P5 M9 E13 E10 E12 A36, Added taxiways/stops/de-ice DE-ICE 11 DE-ICE 12 DE-ICE 13 DE-ICE 21 DE-ICE 22 DE-ICE 23 DE-ICE 31 DE-ICE 41 DE-ICE 42 DE-ICE 43 DE-ICE 44 BM1 NW1 NW2 NW3 NW4 NE1 NE2 NE3 NE4 TB1 JNORD JSUD TG1 TG2 RNORD RSUD SE1 SE2 SE3 SE4 SW1 SW2 SW3 SW4 LINKW Aires d'essai moteur OUEST EST, Fixed some label positions, Added TORAs, Terminal names (freight), Add company terminal helper
 LFPO : showing full terminal names (ORLY 1 instead of 1)
 LFRK : added gates, update taxiway H1, removed taxiway B1
 LFTW : Removed SN, added CS, SG, PA, BG, CZ, RD and UH (VFR report points)
