@@ -2,6 +2,7 @@
 ESE
 **********************
 
+LFGJ_TWR : Fixed malformed coordinates
 LFMH_ATIS : add sector code
 LFMT_ATIS : add sector code
 LFMU_ATIS : add sector code
