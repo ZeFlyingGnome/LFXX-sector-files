@@ -2,7 +2,6 @@
 ESE
 **********************
 
-LFGJ_TWR : Fixed malformed coordinates
 LFMH_ATIS : add sector code
 LFMT_ATIS : add sector code
 LFMU_ATIS : add sector code
@@ -46,7 +45,6 @@ CTR LFAQ : updated sector shape
 CTR LFCR : updated sector shape
 CTR LFMD : updated sector shapes
 CTR LFRS : updated sector shape, removed CTR2
-CTR LFSB : updated sector shape
 CTR LFTW : updated sector shape
 
 LF R35A/R35B PARIS SACLAY VERSAILLES : added for controling LFPN TWR
