@@ -62,4 +62,5 @@ LFML : removed non-existing building
 LFMU : added Groundlayout AVISO and REGIONNAME AVISO
 LFPG : added Groundlayout AVISO Lite, Groundlayout AVISO V3 and REGIONNAME AVISO V3
 LFRK : added Groundlayout AVISO and REGIONNAME AVISO
+LFSB : fixed typo in name
 LFTH : added Groundlayout AVISO and REGIONNAME AVISO
