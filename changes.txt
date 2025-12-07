@@ -19,6 +19,7 @@ LFCR : consistent naming for taxiways
 LFKF : added stand 12B
 LFKJ : renamed stands 1 and 2 to PTT1 and PTT2
 LFLB : updated coordinates for SB and SM (VFR report points)
+LFLJ : updated stands
 LFLS : full update: stands and taxiways
 LFMD : updated coordinates for SW (VFR report point)
 LFME : Removed SN, added CS, SG and PA (VFR report points)
