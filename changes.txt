@@ -69,6 +69,7 @@ LFLS : added Groundlayout AVISO and REGIONNAME AVISO
 LFMK : updated REGIONNAME AVISO to match color standards of other platforms
 LFML : removed non-existing building
 LFMU : added Groundlayout AVISO and REGIONNAME AVISO
+LFMV : added Groundlayout AVISO and REGIONNAME AVISO
 LFOP : added Groundlayout AVISO and REGIONNAME AVISO
 LFPG : added Groundlayout AVISO Lite, Groundlayout AVISO V3 and REGIONNAME AVISO V3
 LFQQ : added Groundlayout AVISO V3 and REGIONNAME AVISO V3
