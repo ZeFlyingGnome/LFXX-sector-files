@@ -22,6 +22,7 @@ LFKJ : renamed stands 1 and 2 to PTT1 and PTT2
 LFLB : updated coordinates for SB and SM (VFR report points)
 LFLJ : updated stands
 LFLS : full update: stands and taxiways
+LFLL : removed gates A and B10, added gates B62, B72, B82, B92, C19. C22. C42, C62, D22, D42, M12, M22, M32, M42, added intermediate HP T3, T4, T5, A6, A8, S6-N, S6-S
 LFMD : updated coordinates for SW (VFR report point)
 LFME : Removed SN, added CS, SG and PA (VFR report points)
 LFMK : updated taxiways names, commercial stands layout
@@ -65,6 +66,7 @@ LFBZ : updated Groundlayout AVISO with new Apron A layout, updated REGIONNAME AV
 LFCR : added Groundlayout AVISO
 LFKF : updated Groundlayout AVISO with stand 12B
 LFLG : added Groundlayout AVISO and REGIONNAME AVISO
+LFLL : updated Groundlayout AVISO and REGIONNAME AVISO
 LFLS : added Groundlayout AVISO and REGIONNAME AVISO
 LFMK : updated REGIONNAME AVISO to match color standards of other platforms
 LFML : removed non-existing building
