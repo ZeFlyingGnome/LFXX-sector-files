@@ -59,6 +59,7 @@ TMA Rennes : updated sector shapes
 TMA Rodez : removed
 TMA Rouen : removed
 TMA Seine : updated sector shapes
+TMA Tours : removed
 
 CTR LFAQ : updated sector shape
 CTR LFCR : updated sector shape
