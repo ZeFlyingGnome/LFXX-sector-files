@@ -44,6 +44,7 @@ SCT
 LFME : added coordinates and runways for display on APP
 LFNR : added coordinates and runways for display on APP
 
+TMA Avord : updated sector shapes
 TMA Lille : updated sector shapes
 TMA Lyon : updated sector shapes
 TMA Montpellier : fixed typo, remove sector 24
