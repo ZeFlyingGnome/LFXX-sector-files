@@ -55,6 +55,7 @@ TMA Nantes : updated sector shapes
 TMA Orléans : updated sector shapes
 TMA Provence : updated sector shapes
 TMA Pyrénées : updated sector shapes (LFBP), removed LFBT
+TMA Rennes : updated sector shapes
 TMA Rodez : removed
 TMA Rouen : removed
 
