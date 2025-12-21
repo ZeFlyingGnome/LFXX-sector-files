@@ -58,6 +58,7 @@ TMA Pyrénées : updated sector shapes (LFBP), removed LFBT
 TMA Rennes : updated sector shapes
 TMA Rodez : removed
 TMA Rouen : removed
+TMA Seine : updated sector shapes
 
 CTR LFAQ : updated sector shape
 CTR LFCR : updated sector shape
