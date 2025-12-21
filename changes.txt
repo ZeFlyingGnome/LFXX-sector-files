@@ -52,6 +52,7 @@ TMA Lorraine : updated sector shapes
 TMA Lyon : updated sector shapes
 TMA Montpellier : fixed typo, remove sector 24
 TMA Nantes : updated sector shapes
+TMA Orléans : updated sector shapes
 TMA Provence : updated sector shapes
 TMA Rodez : removed
 TMA Rouen : removed
