@@ -45,7 +45,9 @@ LFME : added coordinates and runways for display on APP
 LFNR : added coordinates and runways for display on APP
 
 TMA Avord : updated sector shapes
+TMA Cambrai : removed
 TMA Chambéry : updated sector shapes
+TMA Deauville : removed
 TMA Lille : updated sector shapes
 TMA Limoges : updated sector shapes
 TMA Lorraine : updated sector shapes
