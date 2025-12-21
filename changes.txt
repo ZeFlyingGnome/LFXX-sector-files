@@ -48,6 +48,7 @@ TMA Avord : updated sector shapes
 TMA Chambéry : updated sector shapes
 TMA Lille : updated sector shapes
 TMA Limoges : updated sector shapes
+TMA Lorraine : updated sector shapes
 TMA Lyon : updated sector shapes
 TMA Montpellier : fixed typo, remove sector 24
 TMA Nantes : updated sector shapes
