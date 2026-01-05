@@ -23,6 +23,7 @@ LFLL : removed gates A and B10, added gates B62, B72, B82, B92, C19. C22. C42, C
 LFLS : full update: stands and taxiways
 LFMD : updated coordinates for SW (VFR report point)
 LFME : Removed SN, added CS, SG and PA (VFR report points)
+LFML : fixed coordinates for NA, added SR
 LFMK : updated taxiways names, commercial stands layout
 LFMV : updated stands, aprons and taxiways
 LFOP : updated stands and VFR report points, added aprons and taxiways
