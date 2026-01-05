@@ -2,11 +2,6 @@
 ESE
 **********************
 
-LFMH_ATIS : add sector code
-LFMT_ATIS : add sector code
-LFMU_ATIS : add sector code
-LFTH_TWR : add sector code
-
 CTR LFAQ : updated sector ownership shape
 CTR LFCR : updated sector ownership shape
 CTR LFLB : updated sector ownership shape
