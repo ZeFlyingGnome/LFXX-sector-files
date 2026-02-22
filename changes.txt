@@ -4,7 +4,6 @@ ESE
 
 CTR LFAQ : updated sector ownership shape
 CTR LFCR : updated sector ownership shape
-CTR LFLB : updated sector ownership shape
 CTR LFMD : updated sector ownership shape
 CTR LFMI : updated sector ownership shape
 CTR LFOP : updated sector ownership shape
