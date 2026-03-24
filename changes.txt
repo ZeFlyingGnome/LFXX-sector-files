@@ -2,8 +2,11 @@
 ESE
 **********************
 
+LFMU_ATIS : added identifier
+LFTH_TWR : added identifier
+
 CTR LFAQ : updated sector ownership shape
-CTR LFCR : updated sector ownership shape
+CTR LFCR : remove uneede line, moved to BB
 CTR LFMD : updated sector ownership shape
 CTR LFMI : updated sector ownership shape
 CTR LFOP : updated sector ownership shape
@@ -37,29 +40,24 @@ LFTW : Removed SN, added CS, SG, PA, BG, CZ, RD and UH (VFR report points)
 SCT
 **********************
 
-LFME : added coordinates and runways for display on APP
-LFNR : added coordinates and runways for display on APP
-
 TMA Avord : updated sector shapes
 TMA Cambrai : removed
 TMA Chambéry : updated sector shapes
 TMA Deauville : removed
 TMA Lille : updated sector shapes
-TMA Limoges : updated sector shapes
 TMA Lorraine : updated sector shapes
 TMA Lyon : updated sector shapes
 TMA Montpellier : fixed typo, remove sector 24
 TMA Nantes : updated sector shapes
 TMA Orléans : updated sector shapes
 TMA Provence : updated sector shapes
-TMA Pyrénées : updated sector shapes (LFBP), removed LFBT
 TMA Rennes : updated sector shapes
-TMA Rodez : removed
 TMA Rouen : removed
 TMA Seine : updated sector shapes
 TMA Tours : removed
 
 CTR LFAQ : updated sector shape
+CTR LFBA : missing
 CTR LFCR : updated sector shape
 CTR LFMD : updated sector shapes
 CTR LFOP : updated sector shapes
