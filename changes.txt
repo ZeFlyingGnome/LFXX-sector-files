@@ -55,6 +55,7 @@ TMA Rennes : updated sector shapes
 TMA Rouen : removed
 TMA Seine : updated sector shapes
 TMA Tours : removed
+TMA Toulouse : updated AMSR
 
 CTR LFAQ : updated sector shape
 CTR LFBA : missing
